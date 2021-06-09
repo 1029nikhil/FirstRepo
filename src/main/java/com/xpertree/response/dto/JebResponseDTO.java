@@ -6,7 +6,7 @@ import com.xpertree.model.Jeb;
 
 public class JebResponseDTO {
 	private List<Jeb> list;
-	
+
 	
 
 }
